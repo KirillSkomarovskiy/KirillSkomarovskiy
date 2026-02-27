@@ -1,11 +1,5 @@
 # Skomarovskyi Kyrylo
-## Senior Frontend Engineer
-
-<p>Kyiv, Ukraine</p>
-<p><a href="tel:+380661197157">+38(066)119-7157</a></p>
-<p><a href="mailto:skomarovskiykirill@gmail.com">skomarovskiykirill@gmail.com</a></p>
-<p><a href="https://www.linkedin.com/in/kirill-skomarovskiy" target="_blank" rel="noopener noreferrer">linkedin.com/in/skomarovskyi-kyrylo</a></p>
-
+## Frontend Engineer
 ### Summary
 Senior Frontend Engineer / Technical Lead with 9+ years of experience building scalable React-based applications.
 Led frontend teams of 5–6 engineers, owned architecture decisions, improved performance and testing strategy across multiple production projects.
