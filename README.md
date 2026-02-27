@@ -7,11 +7,6 @@ Specialized in frontend architecture, performance optimization, state management
 Experienced in enterprise-scale environments (100+ engineers) and product teams requiring full technical ownership.
 Focused on writing maintainable, high-performance code with strong emphasis on architecture and long-term scalability.
 
-### Education
-<p>National Aerospace University -'Kharkiv Aviation Institute'</p>​
-<p>Master's degree, Aircraft design</p>
-<p>2006 - 2012</p>
-
 ### Technical Skills
 #### Core Expertise
 - React
