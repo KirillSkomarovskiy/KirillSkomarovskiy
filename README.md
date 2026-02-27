@@ -1,16 +1,59 @@
-### Hi there 👋
+# Skomarovskyi Kyrylo
+## Senior Frontend Engineer
 
-<!--
-**KirillSkomarovskiy/KirillSkomarovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Kyiv, Ukraine</p>
+<p><a href="tel:+380661197157">+38(066)119-7157</a></p>
+<p><a href="mailto:skomarovskiykirill@gmail.com">skomarovskiykirill@gmail.com</a></p>
+<p><a href="https://www.linkedin.com/in/kirill-skomarovskiy" target="_blank" rel="noopener noreferrer">linkedin.com/in/skomarovskyi-kyrylo</a></p>
 
-Here are some ideas to get you started:
+### Summary
+Senior Frontend Engineer / Technical Lead with 9+ years of experience building scalable React-based applications.
+Led frontend teams of 5–6 engineers, owned architecture decisions, improved performance and testing strategy across multiple production projects.
+Specialized in frontend architecture, performance optimization, state management design, and scalable testing strategies.
+Experienced in enterprise-scale environments (100+ engineers) and product teams requiring full technical ownership.
+Focused on writing maintainable, high-performance code with strong emphasis on architecture and long-term scalability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Education
+<p>National Aerospace University -'Kharkiv Aviation Institute'</p>​
+<p>Master's degree, Aircraft design</p>
+<p>2006 - 2012</p>
+
+### Technical Skills
+#### Core Expertise
+- React
+- Next.js
+- TypeScript
+- Frontend Architecture
+- Performance Optimization
+- Scalable Application Design
+- Testing Strategy
+#### State Management & Data Layer
+- Redux Toolkit
+- TanStack Query
+- RxJS
+- Context API
+#### Backend & APIs
+- Node.js
+- NestJS
+- REST API
+- GraphQL
+- tRPC
+#### Testing & Quality Assurance
+- Jest
+- React Testing Library
+- Cucumber (BDD)
+- Unit Testing
+- Integration Testing
+- Test Architecture Design
+#### UI & Styling
+- Material UI
+- Tailwind CSS
+- shadcn/ui
+- Responsive Design
+- Accessibility (a11y)
+#### DevOps & Tooling
+- Git
+- CI/CD
+- Webpack / Vite
+- ESLint
+- Prettier
